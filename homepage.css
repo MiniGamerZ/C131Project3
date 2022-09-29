@@ -1,0 +1,10 @@
+#back{
+    background-color: whitesmoke ;
+}
+#head{
+    width: 100%;
+    font-size: 25px;
+}
+#bedroom, #TVAC, #Desk , #Bottles , #FruitBasket{
+    width: 30%;
+}
